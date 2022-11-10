@@ -1,4 +1,5 @@
 <h1 align="center">Hello there!</h1>
+<img align="center" src="https://ovicio.com.br/wp-content/uploads/2022/05/20220526-20220526_201516-555x555.jpg" alt="hello-there" height="30" width="40" />
 <h3 align="center">I'm a passionate student at Trybe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laboreja&label=Profile%20views&color=0e75b6&style=flat" alt="laboreja" /> </p>
